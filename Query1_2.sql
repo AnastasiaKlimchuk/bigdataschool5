@@ -1,4 +1,4 @@
-CREATE LOGIN [an_klimchuk] with PASSWORD=N'Wh2uq3gj\J+}E2V8'
+CREATE LOGIN [an_klimchuk] with PASSWORD=N'****'
 GO
 CREATE USER [UserKlimchuk] FOR LOGIN [an_klimchuk] WITH DEFAULT_SCHEMA=[klim_shema]
 GO
